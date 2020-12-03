@@ -1,0 +1,44 @@
+body {
+  background-color: #30475E;
+}
+h1 {
+color: white;
+text-align: center;
+}
+h3{
+color: white;
+}
+p {
+color: white;
+font-family: verdana;
+font-size: 20px;
+}
+ol{
+color: white;
+}
+table{
+  color: white;
+}
+a{
+  color: white;
+}
+h2{
+  color: white;
+}
+table{
+  width: 100%;
+}
+/*Classes*/
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+}
+/*Ids*/
+#trying {
+  font-style: italic;
+}
+#small{
+  width: 40%;
+}
